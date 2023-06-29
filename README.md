@@ -11,5 +11,3 @@ I'm a passionate and dedicated software developer who loves to code mobile apps 
 - 🐍 Also slinging Python code and playing around with C++ for fun and profit.
 - 👯 I’m looking to collaborate on exciting and innovative mobile app projects.
 - 💬 Ask me about anything related to mobile app development or UI/UX design.
-
-Remember, code is poetry. Let's write the future together. 🚀💻🌌
