@@ -1,8 +1,8 @@
 Im Anfernee,
 
-I'm a passionate and dedicated software developer who loves to code mobile apps and user interfaces.
+I'm obsesed about observability and logging. I want to see around the corner, even if the corner is still being made. 
 
 ## 👨‍💻 About me
 
-- Currently working on various projects using Swift, Python, C, and C++
-- Contributor on the Webkit project @ Apple. 
+- Currently working on various projects using Swift, SwiftUI, Python, and C++.
+- Currently working on webkit project @ Apple. 
