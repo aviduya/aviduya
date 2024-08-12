@@ -4,5 +4,5 @@ I'm a passionate and dedicated software developer who loves to code mobile apps 
 
 ## 👨‍💻 About me
 
-- Currently working on various projects using Swift, SwiftUI, Python, and C++.
-- Currently working on webkit project @ Apple. 
+- Currently working on various projects using Swift, Python, C, and C++
+- Contributor on the Webkit project @ Apple. 
